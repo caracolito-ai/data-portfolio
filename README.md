@@ -12,4 +12,4 @@ Actualmente estoy enfocado en desarrollar habilidades en IA aplicada, modelado e
 
 📍 Intereses: Ciencia de Datos, Machine Learning, Inteligencia Artificial, Análisis de Negocio y Gobierno de Datos.  
 📧 Contacto: carol.demicheli@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/carol-de-micheli-sal-y-rosas-87926242/]) | [GitHub](https://github.com/caracolito-ai)
+🔗 [LinkedIn](https://www.linkedin.com/in/carol-de-micheli-sal-y-rosas-87926242/) | [GitHub](https://github.com/caracolito-ai)
