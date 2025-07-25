@@ -1,7 +1,7 @@
 # 📊 Proyecto 1: Análisis Exploratorio de Datos (EDA)
 
 ### 📌 Descripción
-Este proyecto presenta un análisis exploratorio del dataset `Netflix Shows`, utilizando herramientas de Python como `pandas`, `matplotlib` y `seaborn`.
+Este proyecto analiza el dataset de títulos de Netflix disponible en Kaggle. Se explora la distribución de películas y series, los países con más contenido, los años de lanzamiento y otras métricas relevantes.
 
 El objetivo es entender la estructura de los datos, descubrir patrones y preparar la base para futuros modelos de Machine Learning.
 
@@ -31,16 +31,12 @@ El objetivo es entender la estructura de los datos, descubrir patrones y prepara
 
 ---
 
-### 📈 Ejemplo de visualización
-
-
-
----
-
 ### 📌 Conclusiones
-- `X%` de los registros presentan valores faltantes.
-- [Tu observación principal]
-- Este análisis permitirá futuros modelos predictivos o clasificación.
+
+1. Hay mayor cantidad de películas que series en Netflix
+2. El mayor productor de material visual es US, le sigue India, UK, Japan y Corea.
+3. Hubieron mayor producción visual del año 2015 al año 2021.
+4. La mayoría de los materiales audivisuales duran 1 hora y media.
 
 ---
 
