@@ -1,0 +1,1 @@
+| [📁 Proyecto 2 – Accidentes de Tránsito USA](./proyecto_2_accidentes_transito) | Exploración de datos de accidentes viales en EE.UU. con visualizaciones y modelo predictivo de severidad. | Python, Pandas, Matplotlib, Scikit-learn |
